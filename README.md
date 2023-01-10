@@ -39,4 +39,6 @@
 
 <!--Footer-->
 <hr>
-<img align="right" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge">
+<p align="right">
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=root-andry&repo=root-andry&countColor=%FF918D"/>
+</p>
