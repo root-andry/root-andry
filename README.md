@@ -1,4 +1,5 @@
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=root-andry&locale=fr&ring=FF918D&fire=34FF4E)](https://git.io/streak-stats)
 <!-- Programmer gif -->
 <img align="right" src="https://raw.githubusercontent.com/codePerfectPlus/codeperfectplus/master/assets/img/programmer.gif">
 
