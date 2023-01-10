@@ -35,7 +35,9 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <!-- Github Stats -->
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=root-andry&show_icons=true&include_all_commits=true&theme=dracula" alt="github stats">
+</p>
 
 <!--Footer-->
 <hr>
