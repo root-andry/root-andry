@@ -1,5 +1,9 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=10BB4A&width=435&lines=%24Hello;%24My_Name_is_Andry;%24I'm_Web_Developer;%24_And_Cyber_Security)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=root-andry&locale=fr&ring=FF918D&fire=34FF4E)](https://git.io/streak-stats)
+<p align="center"> 
+<img src="https://streak-stats.demolab.com?user=root-andry&locale=fr&ring=FF918D&fire=34FF4E"/>
+    <br>
+</p>
 <!-- Programmer gif -->
 <img align="right" src="https://raw.githubusercontent.com/codePerfectPlus/codeperfectplus/master/assets/img/programmer.gif">
 
